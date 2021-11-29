@@ -1,3 +1,5 @@
+Current Project: to-do-list
+
 - 👋 Hi, I’m @TYLPHE
 - 👀 I’m interested in learning how to code and swimming
 - 🌱 I’m currently learning TheOdinProject
