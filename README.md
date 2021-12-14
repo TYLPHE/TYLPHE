@@ -1,5 +1,4 @@
-Current Project: 
-to-do-list - https://github.com/TYLPHE/to-do-list
+Current Project: https://github.com/TYLPHE/to-do-list
 
 - 👋 Hi, I’m @TYLPHE
 - 👀 I’m interested in learning how to code and swimming
