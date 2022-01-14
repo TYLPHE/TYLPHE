@@ -1,4 +1,4 @@
-Current Project: https://github.com/TYLPHE/to-do-list
+Current Project: https://github.com/TYLPHE/dynamic-interactions
 
 - 👋 Hi, I’m @TYLPHE
 - 👀 I’m interested in learning how to code and swimming
