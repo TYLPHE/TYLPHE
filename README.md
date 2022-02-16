@@ -1,4 +1,4 @@
-Current Project: https://github.com/TYLPHE/dynamic-interactions
+Current Project: https://github.com/TYLPHE/weather
 
 - 👋 Hi, I’m @TYLPHE
 - 👀 I’m interested in learning how to code and swimming
