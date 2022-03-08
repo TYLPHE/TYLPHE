@@ -1,6 +1,3 @@
-# TYLPHE's GitHub
-###### Self-taught aspiring software engineer
-
 ## Current Project
 - https://github.com/TYLPHE/weather
 
