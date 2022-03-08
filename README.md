@@ -2,11 +2,12 @@
 ###### Self-taught aspiring software engineer
 
 ## Current Project
-- Current Project: https://github.com/TYLPHE/weather
+- https://github.com/TYLPHE/weather
 
 ## Project Previews
  - Weather
-   - ![](https://github.com/TYLPHE/TYLPHE/weather.gif)
+   - ![](https://github.com/TYLPHE/TYLPHE/blob/main/readmeAssets/weather.gif)
+ - 
 
 - 👋 Hi, I’m @TYLPHE
 - 👀 I’m interested in learning how to code and swimming
