@@ -7,4 +7,4 @@
  - [To Do List](https://github.com/TYLPHE/to-do-list)
    - ![](https://github.com/TYLPHE/TYLPHE/blob/main/readmeAssets/toDoList.gif)
  - [To Do List](https://github.com/TYLPHE/to-do-list)
-   - ![](https://github.com/TYLPHE/TYLPHE/blob/main/readmeAssets/toDoList (border).gif)
+   - ![](https://github.com/TYLPHE/TYLPHE/blob/main/readmeAssets/toDoList%20(border).gif)
