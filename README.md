@@ -1,4 +1,4 @@
-## Current Project - Weather
+## Current Project
 [Weather](https://github.com/TYLPHE/weather)
 
 ## Project Previews
