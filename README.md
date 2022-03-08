@@ -1,5 +1,5 @@
-## Current Project
-- https://github.com/TYLPHE/weather
+## Current Project - Weather
+[Weather](https://github.com/TYLPHE/weather)
 
 ## Project Previews
  - Weather
