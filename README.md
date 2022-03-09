@@ -6,7 +6,7 @@
 
 ![](https://github.com/TYLPHE/TYLPHE/blob/main/readmeAssets/weather.gif)
 
-[Restaurant](https://github.com/TYLPHE/restaurant) - A dynamically rendering web page using Webpack
+[Restaurant](https://github.com/TYLPHE/restaurant) - A dynamically rendering web page featuring a parallaxing background
  
 ![](https://github.com/TYLPHE/TYLPHE/blob/main/readmeAssets/restaurant.gif)
 
