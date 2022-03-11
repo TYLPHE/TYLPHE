@@ -1,7 +1,6 @@
-## Current Project
-[Weather](https://github.com/TYLPHE/weather)
+## Current Project - [Weather](https://github.com/TYLPHE/weather)
 
-## Project Previews
+## Project List
 ### [Weather](https://github.com/TYLPHE/weather) - My first API project
 
 [![](https://github.com/TYLPHE/TYLPHE/blob/main/readmeAssets/preview-weather.gif)](https://github.com/TYLPHE/weather)
