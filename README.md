@@ -8,7 +8,7 @@
 
 [Restaurant](https://github.com/TYLPHE/restaurant) - A dynamically rendering web page featuring a parallaxing background
  
-![](https://github.com/TYLPHE/TYLPHE/blob/main/readmeAssets/restaurant.gif)
+![](https://github.com/TYLPHE/TYLPHE/blob/main/readmeAssets/preview-restaurant.gif)
 
 [To Do List](https://github.com/TYLPHE/to-do-list) - More practice with Webpack, forms, and sorting
  
