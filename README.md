@@ -15,4 +15,4 @@
 
 ### [Tic-tac-toe](https://github.com/TYLPHE/tic-tac-toe) - Play an unbeatable bot using Minimax
 
-[![](https://github.com/TYLPHE/TYLPHE/blob/main/readmeAssets/preview-tic-tac-toe.gif)](https://github.com/TYLPHE/to-do-list) 
+[![](https://github.com/TYLPHE/TYLPHE/blob/main/readmeAssets/preview-tic-tac-toe.gif)](https://github.com/TYLPHE/tic-tac-toe) 
