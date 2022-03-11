@@ -2,9 +2,9 @@
 [Weather](https://github.com/TYLPHE/weather)
 
 ## Project Previews
-[Weather](https://github.com/TYLPHE/weather-preview) - My first API project
+[Weather](https://github.com/TYLPHE/weather) - My first API project
 
-![](https://github.com/TYLPHE/TYLPHE/blob/main/readmeAssets/weather.gif)
+![](https://github.com/TYLPHE/TYLPHE/blob/main/readmeAssets/preview-weather.gif)
 
 [Restaurant](https://github.com/TYLPHE/restaurant) - A dynamically rendering web page featuring a parallaxing background
  
