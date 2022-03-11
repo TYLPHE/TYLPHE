@@ -12,4 +12,4 @@
 
 [To Do List](https://github.com/TYLPHE/to-do-list) - More practice with Webpack, forms, and sorting
  
-![](https://github.com/TYLPHE/TYLPHE/blob/main/readmeAssets/toDoList.gif)
+![](https://github.com/TYLPHE/TYLPHE/blob/main/readmeAssets/preview-to-do-list.gif)
