@@ -1,6 +1,6 @@
 ## Project List
 
-| Project | Preview  |
+| Name | Preview  |
 | --- | --- |
 | [Weather](https://github.com/TYLPHE/weather) | [![](https://github.com/TYLPHE/TYLPHE/blob/main/readmeAssets/preview-weather.gif)](https://github.com/TYLPHE/weather) |
 | [Restaurant](https://github.com/TYLPHE/restaurant) | [![](https://github.com/TYLPHE/TYLPHE/blob/main/readmeAssets/preview-restaurant.gif)](https://github.com/TYLPHE/restaurant) |
