@@ -1,4 +1,4 @@
-#### [Current project: Battleship](https://github.com/TYLPHE/battleship)
+#### [Current project: CV Application](https://github.com/TYLPHE/cv-application)
 | Project List | Project List |
 | --- | --- |
 | [Battleship](https://github.com/TYLPHE/battleship)   <br> [![](https://github.com/TYLPHE/TYLPHE/blob/main/readmeAssets/preview-battleship.gif)](https://github.com/TYLPHE/battleship)   | [Weather](https://github.com/TYLPHE/weather)            <br> [![](https://github.com/TYLPHE/TYLPHE/blob/main/readmeAssets/preview-weather.gif)](https://github.com/TYLPHE/weather)            | 
