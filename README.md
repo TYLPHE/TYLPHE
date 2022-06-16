@@ -1,4 +1,4 @@
-#### [Current project: CV Application](https://github.com/TYLPHE/cv-application)
+#### [Current project: Memory Card Game](https://github.com/TYLPHE/memory-card-game)
 | Project List | Project List |
 | --- | --- |
 | [CV Application](https://github.com/TYLPHE/cv-application)  <br> [![](https://github.com/TYLPHE/TYLPHE/blob/main/readmeAssets/preview-cv-application.gif)](https://github.com/TYLPHE/cv-application)  | [Battleship](https://github.com/TYLPHE/battleship)   <br> [![](https://github.com/TYLPHE/TYLPHE/blob/main/readmeAssets/preview-battleship.gif)](https://github.com/TYLPHE/battleship)         | 
