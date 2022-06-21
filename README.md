@@ -1,13 +1,11 @@
 #### [Current project: Memory Card Game](https://github.com/TYLPHE/memory-card-game)
 | Project List | Project List |
-|      ---     |      ---     |
+| ------------ | ------------ |
 | [CV Application][cvapplLin] <br> [![][cvapplGif]][cvapplLin] | [Memory Card Game][memcarLin] <br> [![][memcarGif]][memcarLin] | 
 | [Weather][weatheLin]        <br> [![][weatheGif]][weatheLin] | [Math Flick][matfliLin]       <br> [![][matfliGif]][matfliLin] |
 | [Restaurant][restauLin]     <br> [![][restauGif]][restauLin] | [To-do List][todoliLin]       <br> [![][todoliGif]][todoliLin] | 
 | [Tic-tac-toe][tictacLin]    <br> [![][tictacGif]][tictacLin] | [Library][librarLin]          <br> [![][librarGif]][librarLin] | 
 | [Battleship][battleLin]     <br> [![][battleGif]][battleLin] |
-
-[![][battleGif]][battleLin]
 
 <!-- Link References -->
 [cvapplLin]: https://github.com/TYLPHE/cv-application
