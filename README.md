@@ -7,7 +7,7 @@
 | [Tic-tac-toe][tictacLin]    <br> [![][tictacGif]][tictacLin] | [Library][librarLin]          <br> [![][librarGif]][librarLin] | 
 | [Battleship][battleLin]     <br> [![][battleGif]][battleLin] |
 
-[![][battleGif]](https://n <p style="tgoogle.com)
+[![][battleGif]](https://google.com)
 
 <!-- Link References -->
 [cvapplLin]: https://github.com/TYLPHE/cv-application
