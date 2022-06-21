@@ -2,10 +2,10 @@
 | Project List | Project List |
 | --- | --- |
 | [Shopping Cart][shocarLin] <br> Gif coming soon!               | [CV Application][cvapplLin] <br> [![][cvapplGif]][cvapplLin] | 
-| [Memory Card Game][memcarLin] <br> [![][memcarGif]][memcarLin] | [Weather][weatheLin] <br> [![][weatheGif]][weatheLin]        |
-| [Restaurant][restauLin] <br> [![][restauGif]][restauLin]       | [To-do List][todoliLin] <br> [![][todoliGif]][todoliLin]     | 
-| [Tic-tac-toe][tictacLin] <br> [![][tictacGif]][tictacLin]      | [Library][librarLin] <br> [![][librarGif]][librarLin]        | 
-| [Math Flick][matfliLin] <br> [![][matfliGif]][matfliLin]       | [Battleship][battleLin] <br> [![][battleGif]][battleLin]     |
+| [Memory Card Game][memcarLin] <br> [![][memcarGif]][memcarLin] | [Battleship][battleLin] <br> [![][battleGif]][battleLin] |
+| [Weather][weatheLin] <br> [![][weatheGif]][weatheLin]          | [To-do List][todoliLin] <br> [![][todoliGif]][todoliLin] | 
+| [Tic-tac-toe][tictacLin] <br> [![][tictacGif]][tictacLin]      | [Library][librarLin] <br> [![][librarGif]][librarLin] | 
+| [Restaurant][restauLin] <br> [![][restauGif]][restauLin]       | [Math Flick][matfliLin] <br> [![][matfliGif]][matfliLin] |
 
 <!-- Link References -->
 [cvapplLin]: https://github.com/TYLPHE/cv-application
