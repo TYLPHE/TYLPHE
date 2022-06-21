@@ -1,4 +1,4 @@
-#### [Current project: Memory Card Game](https://github.com/TYLPHE/memory-card-game)
+#### [Current project: Shopping Cart](https://github.com/TYLPHE/shopping-cart)
 | Project List | Project List |
 | --- | --- |
 | [CV Application][cvapplLin] <br> [![][cvapplGif]][cvapplLin] | [Memory Card Game][memcarLin] <br> [![][memcarGif]][memcarLin] | 
