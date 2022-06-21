@@ -1,11 +1,11 @@
-#### [Current project: Shopping Cart](https://github.com/TYLPHE/shopping-cart)
+#### [Current project: Shopping Cart][shocarLin]
 | Project List | Project List |
 | --- | --- |
-| [CV Application][cvapplLin] <br> [![][cvapplGif]][cvapplLin] | [Memory Card Game][memcarLin] <br> [![][memcarGif]][memcarLin] | 
-| [Weather][weatheLin]        <br> [![][weatheGif]][weatheLin] | [Math Flick][matfliLin]       <br> [![][matfliGif]][matfliLin] |
-| [Restaurant][restauLin]     <br> [![][restauGif]][restauLin] | [To-do List][todoliLin]       <br> [![][todoliGif]][todoliLin] | 
-| [Tic-tac-toe][tictacLin]    <br> [![][tictacGif]][tictacLin] | [Library][librarLin]          <br> [![][librarGif]][librarLin] | 
-| [Battleship][battleLin]     <br> [![][battleGif]][battleLin] |
+| [Shopping Cart][shocarLin] <br> Gif coming soon!               | [CV Application][cvapplLin] <br> [![][cvapplGif]][cvapplLin] | 
+| [Memory Card Game][memcarLin] <br> [![][memcarGif]][memcarLin] | [Weather][weatheLin] <br> [![][weatheGif]][weatheLin]        |
+| [Restaurant][restauLin] <br> [![][restauGif]][restauLin]       | [To-do List][todoliLin] <br> [![][todoliGif]][todoliLin]     | 
+| [Tic-tac-toe][tictacLin] <br> [![][tictacGif]][tictacLin]      | [Library][librarLin] <br> [![][librarGif]][librarLin]        | 
+| [Math Flick][matfliLin] <br> [![][matfliGif]][matfliLin]       | [Battleship][battleLin] <br> [![][battleGif]][battleLin]     |
 
 <!-- Link References -->
 [cvapplLin]: https://github.com/TYLPHE/cv-application
@@ -34,3 +34,6 @@
 
 [battleLin]: https://github.com/TYLPHE/battleship
 [battleGif]: https://github.com/TYLPHE/TYLPHE/blob/main/readmeAssets/preview-battleship.gif
+
+[shocarLin]: https://github.com/TYLPHE/shopping-cart
+[shocarGif]: https://github.com/TYLPHE/TYLPHE/blob/main/readmeAssets/shopping-cart.gif
