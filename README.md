@@ -1,20 +1,20 @@
-#### [Current project: Shopping Cart][shocarLin]
----
-<img src="https://github.com/TYLPHE/TYLPHE/blob/main/readmeAssets/react-logo.png" height="60px">
+## [Current project: Shopping Cart][shocarLin]
 
-| React Projects |  |
+# <img src="https://github.com/TYLPHE/TYLPHE/blob/main/readmeAssets/react-logo.png" height="26px"> React Projects
+
+|  |  |
 | --- | --- |
 | [Shopping Cart][shocarLin] <br> [![][shocarGif]][shocarLin]    | [CV Application][cvapplLin] <br> [![][cvapplGif]][cvapplLin] | 
 | [Memory Card Game][memcarLin] <br> [![][memcarGif]][memcarLin] 
----
-<img src="https://github.com/TYLPHE/TYLPHE/blob/main/readmeAssets/JavaScript-logo.png" height="60px">
 
-| JavaScript Projects |  |
+# <img src="https://github.com/TYLPHE/TYLPHE/blob/main/readmeAssets/JavaScript-logo.png" height="26px"> JavaScript Projects
+| | |
 | --- | --- |
-| [Battleship][battleLin] <br> [![][battleGif]][battleLin] | [Weather][weatheLin] <br> [![][weatheGif]][weatheLin]          
+| [Battleship][battleLin] <br> [![][battleGif]][battleLin] | [Weather][weatheLin] <br> [![][weatheGif]][weatheLin]
 | [To-do List][todoliLin] <br> [![][todoliGif]][todoliLin] | [Tic-tac-toe][tictacLin] <br> [![][tictacGif]][tictacLin]      
 | [Library][librarLin] <br> [![][librarGif]][librarLin]    | [Restaurant][restauLin] <br> [![][restauGif]][restauLin]       
 | [Math Flick][matfliLin] <br> [![][matfliGif]][matfliLin] |
+
 
 <!-- Link References -->
 [cvapplLin]: https://github.com/TYLPHE/cv-application
