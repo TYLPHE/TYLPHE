@@ -1,7 +1,7 @@
 #### [Current project: Shopping Cart][shocarLin]
 | Project List | Project List |
 | --- | --- |
-| [Shopping Cart][shocarLin] <br> Gif coming soon!               | [CV Application][cvapplLin] <br> [![][cvapplGif]][cvapplLin] | 
+| [Shopping Cart][shocarLin] <br> [![][shocarGif]][shocarLin]    | [CV Application][cvapplLin] <br> [![][cvapplGif]][cvapplLin] | 
 | [Memory Card Game][memcarLin] <br> [![][memcarGif]][memcarLin] | [Battleship][battleLin] <br> [![][battleGif]][battleLin] |
 | [Weather][weatheLin] <br> [![][weatheGif]][weatheLin]          | [To-do List][todoliLin] <br> [![][todoliGif]][todoliLin] | 
 | [Tic-tac-toe][tictacLin] <br> [![][tictacGif]][tictacLin]      | [Library][librarLin] <br> [![][librarGif]][librarLin] | 
