@@ -36,4 +36,4 @@
 [battleGif]: https://github.com/TYLPHE/TYLPHE/blob/main/readmeAssets/preview-battleship.gif
 
 [shocarLin]: https://github.com/TYLPHE/shopping-cart
-[shocarGif]: https://github.com/TYLPHE/TYLPHE/blob/main/readmeAssets/shopping-cart.gif
+[shocarGif]: https://github.com/TYLPHE/TYLPHE/blob/main/readmeAssets/preview-shopping-cart.gif
