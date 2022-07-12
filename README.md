@@ -1,16 +1,20 @@
 #### [Current project: Shopping Cart][shocarLin]
-| Project List | Project List |
+---
+<img src="https://github.com/TYLPHE/TYLPHE/blob/main/readmeAssets/react-logo.png" height="60px">
+
+| React Projects |  |
 | --- | --- |
 | [Shopping Cart][shocarLin] <br> [![][shocarGif]][shocarLin]    | [CV Application][cvapplLin] <br> [![][cvapplGif]][cvapplLin] | 
-| [Memory Card Game][memcarLin] <br> [![][memcarGif]][memcarLin] | [Battleship][battleLin] <br> [![][battleGif]][battleLin] |
-| [Weather][weatheLin] <br> [![][weatheGif]][weatheLin]          | [To-do List][todoliLin] <br> [![][todoliGif]][todoliLin] | 
-| [Tic-tac-toe][tictacLin] <br> [![][tictacGif]][tictacLin]      | [Library][librarLin] <br> [![][librarGif]][librarLin] | 
-| [Restaurant][restauLin] <br> [![][restauGif]][restauLin]       | [Math Flick][matfliLin] <br> [![][matfliGif]][matfliLin] |
+| [Memory Card Game][memcarLin] <br> [![][memcarGif]][memcarLin] 
+---
+<img src="https://github.com/TYLPHE/TYLPHE/blob/main/readmeAssets/JavaScript-logo.png" height="60px">
 
-![JavaScript Icon](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png | width=100) JavaScript Projects
-| test | test |
+| JavaScript Projects |  |
 | --- | --- |
-| test | test |
+| [Battleship][battleLin] <br> [![][battleGif]][battleLin] | [Weather][weatheLin] <br> [![][weatheGif]][weatheLin]          
+| [To-do List][todoliLin] <br> [![][todoliGif]][todoliLin] | [Tic-tac-toe][tictacLin] <br> [![][tictacGif]][tictacLin]      
+| [Library][librarLin] <br> [![][librarGif]][librarLin]    | [Restaurant][restauLin] <br> [![][restauGif]][restauLin]       
+| [Math Flick][matfliLin] <br> [![][matfliGif]][matfliLin] |
 
 <!-- Link References -->
 [cvapplLin]: https://github.com/TYLPHE/cv-application
