@@ -7,6 +7,11 @@
 | [Tic-tac-toe][tictacLin] <br> [![][tictacGif]][tictacLin]      | [Library][librarLin] <br> [![][librarGif]][librarLin] | 
 | [Restaurant][restauLin] <br> [![][restauGif]][restauLin]       | [Math Flick][matfliLin] <br> [![][matfliGif]][matfliLin] |
 
+![JavaScript Icon](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png | width=100) JavaScript Projects
+| test | test |
+| --- | --- |
+| test | test |
+
 <!-- Link References -->
 [cvapplLin]: https://github.com/TYLPHE/cv-application
 [cvapplGif]: https://github.com/TYLPHE/TYLPHE/blob/main/readmeAssets/preview-cv-application.gif
