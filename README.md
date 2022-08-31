@@ -17,6 +17,9 @@
 
 
 <!-- Link References -->
+[hidobjLin]: https://github.com/TYLPHE/hidden-object-game
+[hidobjGif]: https://github.com/TYLPHE/TYLPHE/blob/main/readmeAssets/preview-hidden-object-game.gif
+
 [cvapplLin]: https://github.com/TYLPHE/cv-application
 [cvapplGif]: https://github.com/TYLPHE/TYLPHE/blob/main/readmeAssets/preview-cv-application.gif
 
