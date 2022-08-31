@@ -1,4 +1,4 @@
-## [Current project: Hidden Object Game][shocarLin]
+## [Current project: Hidden Object Game][hidobjLin]
 
 ## <img src="https://github.com/TYLPHE/TYLPHE/blob/main/readmeAssets/react-logo.png" height="18px"> React Projects
 
