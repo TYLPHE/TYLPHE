@@ -1,4 +1,4 @@
-## [Current project: Shopping Cart][shocarLin]
+## [Current project: Hidden Object Game][shocarLin]
 
 ## <img src="https://github.com/TYLPHE/TYLPHE/blob/main/readmeAssets/react-logo.png" height="18px"> React Projects
 
