@@ -1,14 +1,14 @@
-## [Current project: Hidden Object Game][hidobjLin]
+## [Current project: Linked Lists][linlisLin]
 
-## <img src="https://github.com/TYLPHE/TYLPHE/blob/main/readmeAssets/react-logo.png" height="18px"> React Projects
+## <img src="https://github.com/TYLPHE/TYLPHE/blob/main/readmeAssets/react-logo.png" height="18px"> React
 
-|  |  |
+| Projects | Projects |
 | --- | --- |
-| [Shopping Cart][shocarLin] <br> [![][shocarGif]][shocarLin]    | [CV Application][cvapplLin] <br> [![][cvapplGif]][cvapplLin] | 
-| [Memory Card Game][memcarLin] <br> [![][memcarGif]][memcarLin] 
+| [Hidden Object][hidobjLin] <br> [![][hidobjGif]][hidobjLin]  | [Shopping Cart][shocarLin] <br> [![][shocarGif]][shocarLin]
+| [CV Application][cvapplLin] <br> [![][cvapplGif]][cvapplLin] | [Memory Card Game][memcarLin] <br> [![][memcarGif]][memcarLin]
 
-## <img src="https://github.com/TYLPHE/TYLPHE/blob/main/readmeAssets/JavaScript-logo.png" height="18px"> JavaScript Projects
-| | |
+## <img src="https://github.com/TYLPHE/TYLPHE/blob/main/readmeAssets/JavaScript-logo.png" height="18px"> JavaScript
+| Projects | Projects |
 | --- | --- |
 | [Battleship][battleLin] <br> [![][battleGif]][battleLin] | [Weather][weatheLin] <br> [![][weatheGif]][weatheLin]
 | [To-do List][todoliLin] <br> [![][todoliGif]][todoliLin] | [Tic-tac-toe][tictacLin] <br> [![][tictacGif]][tictacLin]      
@@ -17,6 +17,8 @@
 
 
 <!-- Link References -->
+[linlisLin]: https://github.com/TYLPHE/linked-lists
+
 [hidobjLin]: https://github.com/TYLPHE/hidden-object-game
 [hidobjGif]: https://github.com/TYLPHE/TYLPHE/blob/main/readmeAssets/preview-hidden-object-game.gif
 
