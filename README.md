@@ -1,4 +1,4 @@
-## [Current project: Linked Lists][linlisLin]
+## [Current project: Binary Search Trees][binseaLin]
 
 ## <img src="https://github.com/TYLPHE/TYLPHE/blob/main/readmeAssets/react-logo.png" height="18px"> React
 
@@ -17,6 +17,8 @@
 
 
 <!-- Link References -->
+[binseaLin]: https://github.com/TYLPHE/binary-search-trees
+
 [linlisLin]: https://github.com/TYLPHE/linked-lists
 
 [hidobjLin]: https://github.com/TYLPHE/hidden-object-game
