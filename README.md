@@ -1,4 +1,4 @@
-## [Current project: Binary Search Trees][binseaLin]
+## [Current project: Inventory App][invappLin]
 
 ## <img src="https://github.com/TYLPHE/TYLPHE/blob/main/readmeAssets/react-logo.png" height="18px"> React
 
@@ -17,6 +17,8 @@
 
 
 <!-- Link References -->
+[invappLin]: https://github.com/TYLPHE/inventory-app
+
 [binseaLin]: https://github.com/TYLPHE/binary-search-trees
 
 [linlisLin]: https://github.com/TYLPHE/linked-lists
