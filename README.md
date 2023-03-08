@@ -22,9 +22,9 @@
 | [Math Flick][matfliLin] <br> [![][matfliGif]][matfliLin] |
 
 ## Other cool projects
-- [Binary Search Tree]([binseaLin]) - Building a balanced binary search tree (BST) 
-- [Knights Travails]([knitraLin]) - Find the shortest path between two positions for a chess' knight piece using DFS and BFS
-- [Linked Lists]([linlisLin]) - Creating a linked list data structure and its functions
+- [Binary Search Tree][binseaLin] - Building a balanced binary search tree (BST) 
+- [Knights Travails][knitraLin] - Find the shortest path between two positions for a chess' knight piece using DFS and BFS
+- [Linked Lists][linlisLin] - Creating a linked list data structure and its functions
 
 <!-- Link References -->
 [invappLin]: https://github.com/TYLPHE/inventory-app
