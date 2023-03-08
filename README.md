@@ -1,5 +1,11 @@
 ## [Current project: Inventory App][invappLin]
 
+## <img src="https://github.com/TYLPHE/TYLPHE/blob/main/readmeAssets/nodejs-logo.png" height="18px"> Node
+
+| Projects |
+| --- |
+| [Inventory App][invappLin] <br> [![][invappGif]][invappLin]  |
+
 ## <img src="https://github.com/TYLPHE/TYLPHE/blob/main/readmeAssets/react-logo.png" height="18px"> React
 
 | Projects | Projects |
