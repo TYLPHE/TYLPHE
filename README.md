@@ -18,6 +18,7 @@
 
 <!-- Link References -->
 [invappLin]: https://github.com/TYLPHE/inventory-app
+[invappGif]: https://github.com/TYLPHE/TYLPHE/blob/main/readmeAssets/preview-inventory-app.gif
 
 [binseaLin]: https://github.com/TYLPHE/binary-search-trees
 
