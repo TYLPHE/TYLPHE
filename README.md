@@ -1,4 +1,4 @@
-## [Current project: Inventory App][invappLin]
+## [Current project: Members Only][memonlLin]
 
 ## <img src="https://github.com/TYLPHE/TYLPHE/blob/main/readmeAssets/nodejs-logo.png" height="18px"> Node
 
@@ -27,6 +27,8 @@
 - [Linked Lists][linlisLin] - Creating a linked list data structure and its functions
 
 <!-- Link References -->
+[memonlLin]: https://github.com/TYLPHE/members-only
+
 [invappLin]: https://github.com/TYLPHE/inventory-app
 [invappGif]: https://github.com/TYLPHE/TYLPHE/blob/main/readmeAssets/preview-inventory-app.gif
 
