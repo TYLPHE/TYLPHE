@@ -1,4 +1,4 @@
-## I joined a coding bootcamp called Hackbright on March 13, 2023. I have postponed The Odin Project to complete the bootcamp!
+## I joined a coding boot camp called Hackbright on March 13, 2023. I have postponed The Odin Project to complete the bootcamp!
 
 ## <img src="https://github.com/TYLPHE/TYLPHE/blob/main/readmeAssets/nodejs-logo.png" height="18px"> Node
 
