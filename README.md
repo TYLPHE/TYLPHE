@@ -1,26 +1,26 @@
 <!-- ## [Current Project: hb-capstone][hbcapsLin] -->
 
-## Full Stack
 
-| Projects |
+
+| Full Stack |
 | --- |
 | [Game Reviewer - SQLAlchemy & React][hbcapsLin] <br> [![][hbcapsGif]][hbcapsLin]  |
 
-## <img src="https://github.com/TYLPHE/TYLPHE/blob/main/readmeAssets/nodejs-logo.png" height="18px"> Node
+<!-- ## <img src="https://github.com/TYLPHE/TYLPHE/blob/main/readmeAssets/nodejs-logo.png" height="18px"> Node -->
 
-| Projects |
+| <img src="https://github.com/TYLPHE/TYLPHE/blob/main/readmeAssets/nodejs-logo.png" height="18px"> Node |
 | --- |
-| [Inventory App][invappLin] <br> [![][invappGif]][invappLin]  |
+| [Inventory App][invappLin] <br> [![][invappGif]][invappLin] |
 
-## <img src="https://github.com/TYLPHE/TYLPHE/blob/main/readmeAssets/react-logo.png" height="18px"> React
+<!-- ## <img src="https://github.com/TYLPHE/TYLPHE/blob/main/readmeAssets/react-logo.png" height="18px"> React -->
 
-| Projects | Projects |
+| <img src="https://github.com/TYLPHE/TYLPHE/blob/main/readmeAssets/react-logo.png" height="18px"> React | <img src="https://github.com/TYLPHE/TYLPHE/blob/main/readmeAssets/react-logo.png" height="18px"> React |
 | --- | --- |
 | [Hidden Object][hidobjLin] <br> [![][hidobjGif]][hidobjLin]  | [Shopping Cart][shocarLin] <br> [![][shocarGif]][shocarLin]
 | [CV Application][cvapplLin] <br> [![][cvapplGif]][cvapplLin] | [Memory Card Game][memcarLin] <br> [![][memcarGif]][memcarLin]
 
-## <img src="https://github.com/TYLPHE/TYLPHE/blob/main/readmeAssets/JavaScript-logo.png" height="18px"> JavaScript
-| Projects | Projects |
+<!-- ## <img src="https://github.com/TYLPHE/TYLPHE/blob/main/readmeAssets/JavaScript-logo.png" height="18px"> JavaScript -->
+| <img src="https://github.com/TYLPHE/TYLPHE/blob/main/readmeAssets/JavaScript-logo.png" height="18px"> JavaScript | <img src="https://github.com/TYLPHE/TYLPHE/blob/main/readmeAssets/JavaScript-logo.png" height="18px"> JavaScript |
 | --- | --- |
 | [Battleship][battleLin] <br> [![][battleGif]][battleLin] | [Weather][weatheLin] <br> [![][weatheGif]][weatheLin]
 | [To-do List][todoliLin] <br> [![][todoliGif]][todoliLin] | [Tic-tac-toe][tictacLin] <br> [![][tictacGif]][tictacLin]      
