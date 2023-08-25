@@ -1,4 +1,10 @@
-## [Current Project: hb-capstone](https://github.com/TYLPHE/hb-capstone/)
+<!-- ## [Current Project: hb-capstone][hbcapsLin] -->
+
+## Full Stack
+
+| Projects |
+| --- |
+| [Game Reviewer - SQLAlchemy & React][hbcapsLin] <br> [![][hbcapsGif]][hbcapsLin]  |
 
 ## <img src="https://github.com/TYLPHE/TYLPHE/blob/main/readmeAssets/nodejs-logo.png" height="18px"> Node
 
@@ -27,6 +33,9 @@
 - [Linked Lists][linlisLin] - Creating a linked list data structure and its functions
 
 <!-- Link References -->
+[hbcapsLin]: https://github.com/TYLPHE/hb-capstone
+[hbcapsGif]: https://github.com/TYLPHE/TYLPHE/blob/main/readmeAssets/hb-capstone.gif
+
 [memonlLin]: https://github.com/TYLPHE/members-only
 
 [invappLin]: https://github.com/TYLPHE/inventory-app
