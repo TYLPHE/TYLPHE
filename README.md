@@ -1,33 +1,36 @@
 <!-- ## [Current Project: hb-capstone][hbcapsLin] -->
-
-
-
-| Full Stack |
+### Full Stack Projects
+| [Game Reviewer - SQLAlchemy & React][hbcapsLin] <br> [![][hbcapsGif]][hbcapsLin] |
 | --- |
-| [Game Reviewer - SQLAlchemy & React][hbcapsLin] <br> [![][hbcapsGif]][hbcapsLin]  |
 
-<!-- ## <img src="https://github.com/TYLPHE/TYLPHE/blob/main/readmeAssets/nodejs-logo.png" height="18px"> Node -->
-
-| <img src="https://github.com/TYLPHE/TYLPHE/blob/main/readmeAssets/nodejs-logo.png" height="18px"> Node |
-| --- |
+---
+### <img src="https://github.com/TYLPHE/TYLPHE/blob/main/readmeAssets/nodejs-logo.png" height="18px"> Node Projects
 | [Inventory App][invappLin] <br> [![][invappGif]][invappLin] |
+| --- |
 
-<!-- ## <img src="https://github.com/TYLPHE/TYLPHE/blob/main/readmeAssets/react-logo.png" height="18px"> React -->
-
-| <img src="https://github.com/TYLPHE/TYLPHE/blob/main/readmeAssets/react-logo.png" height="18px"> React | <img src="https://github.com/TYLPHE/TYLPHE/blob/main/readmeAssets/react-logo.png" height="18px"> React |
+***
+### <img src="https://github.com/TYLPHE/TYLPHE/blob/main/readmeAssets/react-logo.png" height="18px"> React Projects
+| [Hidden Object][hidobjLin] <br> [![][hidobjGif]][hidobjLin]  | [Shopping Cart][shocarLin] <br> [![][shocarGif]][shocarLin] |
 | --- | --- |
-| [Hidden Object][hidobjLin] <br> [![][hidobjGif]][hidobjLin]  | [Shopping Cart][shocarLin] <br> [![][shocarGif]][shocarLin]
-| [CV Application][cvapplLin] <br> [![][cvapplGif]][cvapplLin] | [Memory Card Game][memcarLin] <br> [![][memcarGif]][memcarLin]
 
-<!-- ## <img src="https://github.com/TYLPHE/TYLPHE/blob/main/readmeAssets/JavaScript-logo.png" height="18px"> JavaScript -->
-| <img src="https://github.com/TYLPHE/TYLPHE/blob/main/readmeAssets/JavaScript-logo.png" height="18px"> JavaScript | <img src="https://github.com/TYLPHE/TYLPHE/blob/main/readmeAssets/JavaScript-logo.png" height="18px"> JavaScript |
+| [CV Application][cvapplLin] <br> [![][cvapplGif]][cvapplLin] | [Memory Card Game][memcarLin] <br> [![][memcarGif]][memcarLin] |
 | --- | --- |
-| [Battleship][battleLin] <br> [![][battleGif]][battleLin] | [Weather][weatheLin] <br> [![][weatheGif]][weatheLin]
-| [To-do List][todoliLin] <br> [![][todoliGif]][todoliLin] | [Tic-tac-toe][tictacLin] <br> [![][tictacGif]][tictacLin]      
-| [Library][librarLin] <br> [![][librarGif]][librarLin]    | [Restaurant][restauLin] <br> [![][restauGif]][restauLin]       
+
+___
+### <img src="https://github.com/TYLPHE/TYLPHE/blob/main/readmeAssets/JavaScript-logo.png" height="18px"> JavaScript Projects
+| [Battleship][battleLin] <br> [![][battleGif]][battleLin] | [Weather][weatheLin] <br> [![][weatheGif]][weatheLin] |
+| --- | --- |
+
+| [To-do List][todoliLin] <br> [![][todoliGif]][todoliLin] | [Tic-tac-toe][tictacLin] <br> [![][tictacGif]][tictacLin] |
+| --- | --- |
+
+| [Library][librarLin] <br> [![][librarGif]][librarLin]    | [Restaurant][restauLin] <br> [![][restauGif]][restauLin] |
+| --- | --- |
+
 | [Math Flick][matfliLin] <br> [![][matfliGif]][matfliLin] |
+| --- |
 
-## Other cool projects
+### Other cool projects
 - [Binary Search Tree][binseaLin] - Building a balanced binary search tree (BST) 
 - [Knights Travails][knitraLin] - Find the shortest path between two positions for a chess' knight piece using DFS and BFS
 - [Linked Lists][linlisLin] - Creating a linked list data structure and its functions
