@@ -1,4 +1,3 @@
-## I joined a coding boot camp called Hackbright on March 13, 2023. I have postponed The Odin Project to complete the bootcamp!
 ## [Current Project: hb-capstone](https://github.com/TYLPHE/hb-capstone/)
 
 ## <img src="https://github.com/TYLPHE/TYLPHE/blob/main/readmeAssets/nodejs-logo.png" height="18px"> Node
